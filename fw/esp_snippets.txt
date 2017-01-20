@@ -1,0 +1,17 @@
+# relay
+import machine
+relay = machine.Pin(5, machine.Pin.OUT)
+relay.value(1)
+relay.value(0)
+
+# connect to wifi
+
+import network
+wlan = network.WLAN(network.STA_IF)
+wlan.connect('TestCI', 'testPassword123')
+wlan.ifconfig()
+
+def reset():
+pressPowerBtn()
+time.sleep(5)
+releasePowerBtn()

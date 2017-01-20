@@ -1,0 +1,86 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2N7002
+D 60V Vds, 0.115A Id, N-channel MOSFET, SOT-23
+K N-Channel Switching MOSFET
+F https://www.fairchildsemi.com/datasheets/2N/2N7002.pdf
+$ENDCMP
+#
+$CMP BAT17
+D Schottky diode
+K diode schotty
+$ENDCMP
+#
+$CMP FDN335N
+D 50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23
+K N-Channel MOSFET Logic Level
+F http://www.fairchildsemi.com/ds/BS/BSS138.pdf
+$ENDCMP
+#
+$CMP NCP1117ST12T3G
+D 1A Low drop-out regulator, Fixed Output 12V, SOT223
+K REGULATOR LDO 12V
+F http://www.onsemi.com/pub_link/Collateral/NCP1117-D.PDF
+$ENDCMP
+#
+$CMP NCP1117ST15T3G
+D 1A Low drop-out regulator, Fixed Output 1.5V, SOT223
+K REGULATOR LDO 1.5V
+F http://www.onsemi.com/pub_link/Collateral/NCP1117-D.PDF
+$ENDCMP
+#
+$CMP NCP1117ST18T3G
+D 1A Low drop-out regulator, Fixed Output 1.8V, SOT223
+K REGULATOR LDO 1.8V
+F http://www.onsemi.com/pub_link/Collateral/NCP1117-D.PDF
+$ENDCMP
+#
+$CMP NCP1117ST20T3G
+D 1A Low drop-out regulator, Fixed Output 2V, SOT223
+K REGULATOR LDO 2V
+F http://www.onsemi.com/pub_link/Collateral/NCP1117-D.PDF
+$ENDCMP
+#
+$CMP NCP1117ST25T3G
+D 1A Low drop-out regulator, Fixed Output 2.5V, SOT223
+K REGULATOR LDO 2.5V
+F http://www.onsemi.com/pub_link/Collateral/NCP1117-D.PDF
+$ENDCMP
+#
+$CMP NCP1117ST285T3G
+D 1A Low drop-out regulator, Fixed Output 2.85V, SOT223
+K REGULATOR LDO 2.85V
+F http://www.onsemi.com/pub_link/Collateral/NCP1117-D.PDF
+$ENDCMP
+#
+$CMP NCP1117ST33T3G
+D 1A Low drop-out regulator, Fixed Output 3.3V, SOT223
+K REGULATOR LDO 3.3V
+F http://www.onsemi.com/pub_link/Collateral/NCP1117-D.PDF
+$ENDCMP
+#
+$CMP NCP1117ST50T3G
+D 1A Low drop-out regulator, Fixed Output 5V, SOT223
+K REGULATOR LDO 5V
+F http://www.onsemi.com/pub_link/Collateral/NCP1117-D.PDF
+$ENDCMP
+#
+$CMP NCP1117STAT3G
+D 1A Low drop-out regulator, Adjustable Output 1.25 - 18.8V, SOT223
+K REGULATOR LDO 12V
+F http://www.onsemi.com/pub_link/Collateral/NCP1117-D.PDF
+$ENDCMP
+#
+$CMP R2-1A05
+D RELPOL RM50-xx21, Single Pole Relay SPST-NO, 6A
+K Single Pole Relay SPST-NO
+F http://www.relpol.pl/en/content/download/13683/165953/file/e_RM50.pdf
+$ENDCMP
+#
+$CMP RM50-xx21
+D RELPOL RM50-xx21, Single Pole Relay SPST-NO, 6A
+K Single Pole Relay SPST-NO
+F http://www.relpol.pl/en/content/download/13683/165953/file/e_RM50.pdf
+$ENDCMP
+#
+#End Doc Library

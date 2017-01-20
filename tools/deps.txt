@@ -1,0 +1,2 @@
+https://github.com/pfalcon/esp-open-sdk.git
+https://github.com/micropython/micropython.git
