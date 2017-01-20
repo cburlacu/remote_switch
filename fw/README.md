@@ -22,6 +22,7 @@ The instruction can be found at https://github.com/micropython/micropython/blob/
 By default, main.py will be executed if found on the board.
 
 To put a script to board flash, ampy can be used:
+```
 ampy --port /dev/ttyXXX put script.py /main.py
-
+```
 
